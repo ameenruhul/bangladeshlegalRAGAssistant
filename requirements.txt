@@ -3,7 +3,7 @@ google-generativeai
 langchain
 langchain-google-genai
 langchain-community
-faiss-cpu==1.7.4
+faiss-cpu
 sentence-transformers==2.7.0
 huggingface-hub>=0.30.0,<1.0
 transformers==4.36.2
@@ -18,9 +18,9 @@ wordcloud
 textstat==0.7.3
 beautifulsoup4==4.12.2
 markdown==3.5.1
-chromadb==0.4.18
-tiktoken==0.5.2
-streamlit-authenticator==0.2.3
+chromadb
+tiktoken
+streamlit-authenticator
 streamlit-extras==0.3.5
 python-dateutil==2.8.2
 regex==2023.10.3
